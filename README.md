@@ -44,3 +44,7 @@ define command {
         command_line              $USER1$/check_nrpe -H $HOSTADDRESS$ -c $ARG1$
 }
 ```
+
+## Nagios UI screenshots
+<img src="img/nagios-redis-bgsave-ok.png" width="900">
+<img src="img/nagios-redis-bgsave-warning.png" width="900">
