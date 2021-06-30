@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 ## Overview
 This repo contains the following set of Nagios plugins to monitor Redis Server:
 1. Plugin to verify if one or more given redis processes are running.
@@ -48,3 +50,6 @@ define command {
 ## Nagios UI screenshots
 <img src="img/nagios-redis-bgsave-ok.png" width="900">
 <img src="img/nagios-redis-bgsave-warning.png" width="900">
+
+## License
+Code released under the [MIT License](https://opensource.org/licenses/MIT)
